@@ -1,1 +1,1 @@
-# datastructures_python_practice
+# python_dsa_class
