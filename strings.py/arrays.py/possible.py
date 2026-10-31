@@ -1,6 +1,6 @@
 # 📘 Conceptual Questions
 # What is the difference between a list and a tuple in Python?
-#
+#  
 # How does Python internally store lists?
 #
 # What is the time complexity of:
