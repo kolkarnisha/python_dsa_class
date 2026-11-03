@@ -7,7 +7,7 @@
 #   - Accessing a character at index i
 #   - Concatenating two strings
 #   - Substring extraction
-#   - String comparison
+#   - String comparison 
 #
 # What is the difference between substring and subsequence?
 #
